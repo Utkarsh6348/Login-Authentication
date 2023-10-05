@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#foot{
+   height: 10vh;
+   width: 100vw;
+   background-color:aqua;
+   text-align: center;
+   font-size: 1rem;
+   
+}

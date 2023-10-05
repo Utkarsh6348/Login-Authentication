@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#head{
+    width: 100vw;
+    height: 10vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+}
+
+#logo{
+    width: 50vw;
+     
+}
+
+ul{
+    width: 50vw;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+li{
+    font-size: 1.2rem;
+    font-family: monospace;
+    font-weight: 600;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+#content-Page{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+#heading{
+      font-size: 2rem;
+      font-family: monospace;
+      color: black;
+}
+
+.name{
+    line-height: 1rem;
+    font-size: 1.2rem;
+    font-family: monospace;
+    color: black;
+    font-weight: 700;
+}
